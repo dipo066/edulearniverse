@@ -17,7 +17,7 @@ const Hero = () => {
             Next Generation Learning Platform
           </div>
           
-          <h1 className="font-bold leading-tight mb-6 bg-clip-text text-transparent bg-gradient-to-r from-edu-dark via-edu-primary to-edu-secondary animate-slideUp">Transform Learning Experiences with Educational Sains</h1>
+          <h1 className="font-bold leading-tight mb-6 bg-clip-text text-transparent bg-gradient-to-r from-edu-dark via-edu-primary to-edu-secondary animate-slideUp">Transform Learning Experiences with Educational Technology</h1>
           
           <p className="text-xl text-foreground/80 mb-10 max-w-3xl animate-slideUp" style={{
           animationDelay: '0.1s'
