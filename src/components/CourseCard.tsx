@@ -47,7 +47,7 @@ const CourseCard = ({
         </div>
 
         {/* Tags */}
-        {tags.length > 0 && <div className="flex flex-wrap gap-2 mb-3">
+        {tags.length > 0 && <div className="">
             {tags.map((tag, index) => <span key={index} className="inline-block px-2.5 py-0.5 bg-muted text-xs font-medium rounded-full">
                 {tag}
               </span>)}
